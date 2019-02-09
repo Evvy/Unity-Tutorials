@@ -1,8 +1,7 @@
 # Unity Tutorials [2019]
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
-> **Syntax:**
-
+> **Syntax:**  
 >```cs
 >public static float deltaTime;
 >```
