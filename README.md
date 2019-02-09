@@ -4,9 +4,8 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 For more details, check out Unity's own documentation: [Unity3D](https://docs.unity3d.com/ScriptReference/)
 
 ## Things to add  
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Time.deltaTime
+- [ ] Hmm...
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 
