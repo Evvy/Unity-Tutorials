@@ -18,7 +18,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 >The completion time in seconds since the last frame (Read Only).  
 >This property provides the time between the current and previous frame.
 
-**Explanation:**
+#### Explanation:
 
 ```
 120 FPS (Frames Per Second):
