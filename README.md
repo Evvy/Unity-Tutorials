@@ -3,7 +3,9 @@
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 **Syntax:**
 
+```cs
 public static float deltaTime;
+```
 
 **Description:**
 
