@@ -3,15 +3,15 @@
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 > **Syntax:**
 
-```cs
-public static float deltaTime;
-```
+>```cs
+>public static float deltaTime;
+>```
 
-**Description:**
+>**Description:**
 
-The completion time in seconds since the last frame (Read Only).  
-This property provides the time between the current and previous frame.
->
+>The completion time in seconds since the last frame (Read Only).  
+>This property provides the time between the current and previous frame.
+
 **Explanation:**
 
 ```
