@@ -20,6 +20,30 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 
 ### Explanation :book:
 
+
+### Code :computer:
+
+```cs
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class deltaTime : MonoBehaviour {
+  public float speed = 3.0f;
+  
+  public void Update() {
+    transform.Translate(speed * Time.deltaTime);
+  }
+}
+```
+
+#### Maths :triangular_ruler:
+Formula explaining how to calculate units per second:
+
+![Equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bx%7D%20%5Ccdot%20y%20%5Ccdot%20x%20%3D%20%5Cfrac%7B1%20%5Ccdot%20y%20%5Ccdot%20x%7D%7Bx%7D%20%3D%201%20%5Ccdot%20y%20%3D%20y)
+>_x_ = FPS (Frames Per Second)  
+>_y_ = UPS (Units Per Second)
+
 ```
 120 FPS (Frames Per Second):
 
@@ -41,13 +65,6 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
   0.03333333333 * 1 = 0.03333333333
   0.03333333333 * 30 = 0.9999999999 ≈ 1
 ```
-
-#### Maths :triangular_ruler:
-Formula explaining how to calculate units per second:
-
-![Equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bx%7D%20%5Ccdot%20y%20%5Ccdot%20x%20%3D%20%5Cfrac%7B1%20%5Ccdot%20y%20%5Ccdot%20x%7D%7Bx%7D%20%3D%201%20%5Ccdot%20y%20%3D%20y)
->_x_ = FPS (Frames Per Second)  
->_y_ = UPS (Units Per Second)
 
 ## Contributing :memo:
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
