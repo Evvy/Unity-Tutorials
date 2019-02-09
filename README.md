@@ -1,7 +1,7 @@
 # Unity Tutorials [2019]
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
-**Syntax:**
+> **Syntax:**
 
 ```cs
 public static float deltaTime;
@@ -11,7 +11,7 @@ public static float deltaTime;
 
 The completion time in seconds since the last frame (Read Only).  
 This property provides the time between the current and previous frame.
-
+>
 **Explanation:**
 
 ```
