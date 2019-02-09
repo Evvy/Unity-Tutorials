@@ -1,6 +1,6 @@
 # Unity Tutorials [2019]
 These tutorials are ment to give a wider understanding / more context to elements of unity coding.  
-The tutorials will contain a variety of explanations, ranging from mathematical to pure code.  
+Each tutorial will contain a variety of explanations, ranging from mathematical explanations to pure code.  
 For more details, check out Unity's own documentation: [Unity3D](https://docs.unity3d.com/ScriptReference/)
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
