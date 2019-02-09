@@ -49,10 +49,10 @@ Formula explaining how to calculate units per second:
 >_x_ = FPS (Frames Per Second)  
 >_y_ = UPS (Units Per Second)
 
-## Contributing  
+## Contributing :memo:
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
 
-## Authors
+## Authors :shipit:
 
 * **Even Engesland** - [Evvy](https://github.com/Evvy)
 
