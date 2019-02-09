@@ -19,7 +19,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 >This property provides the time between the current and previous frame.
 
 ### Explanation:
------------
+---------------
 
 ```
 120 FPS (Frames Per Second):
