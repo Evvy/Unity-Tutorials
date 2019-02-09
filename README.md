@@ -48,3 +48,6 @@ For more details, check out Unity's own documentation: [Unity3D](https://docs.un
 
 _x_ = FPS (Frames Per Second)  
 _y_ = UPS (Units per Second)
+
+## Contributing  
+Please read [CONTRIBUTING.md]() for the process for submitting pull requests to me.
