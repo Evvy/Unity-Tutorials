@@ -52,7 +52,7 @@ Formula explaining how to calculate units per second:
 ## Contributing :memo:
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
 
-## Authors :busts_in_silhouette:
+## Author(s) :construction_worker:
 
 * **Even Engesland** - [Evvy](https://github.com/Evvy)
 
