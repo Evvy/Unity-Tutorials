@@ -2,7 +2,7 @@
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 
-Source: [Unity3D](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
+Sources for syntax and description can be found at: [Unity3D](https://docs.unity3d.com/ScriptReference/)
 
 > **Syntax:**  
 >```cs
