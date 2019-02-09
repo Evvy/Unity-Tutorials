@@ -9,7 +9,7 @@ public static float deltaTime;
 
 **Description:**
 
-The completion time in seconds since the last frame (Read Only).
+The completion time in seconds since the last frame (Read Only).  
 This property provides the time between the current and previous frame.
 
 **Explanation:**
