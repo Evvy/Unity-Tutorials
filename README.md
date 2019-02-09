@@ -51,3 +51,9 @@ _y_ = UPS (Units per Second)
 
 ## Contributing  
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
+
+## Authors
+
+* **Evvy** - [Evvy](https://github.com/Evvy)
+
+See also the list of [contributors](http://github.com/Evvy/Unity-Tutorials/contributors) who participated in this project.
