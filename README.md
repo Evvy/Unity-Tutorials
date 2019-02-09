@@ -18,7 +18,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 >The completion time in seconds since the last frame (Read Only).  
 >This property provides the time between the current and previous frame.
 
-### Explanation: :book:
+### Explanation :book:
 
 ```
 120 FPS (Frames Per Second):
@@ -42,7 +42,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
   0.03333333333 * 30 = 0.9999999999 ≈ 1
 ```
 
-#### Maths:  
+#### Maths
 Formula explaining how to calculate units per second:
 
 ![Equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bx%7D%20%5Ccdot%20y%20%5Ccdot%20x%20%3D%20%5Cfrac%7B1%20%5Ccdot%20y%20%5Ccdot%20x%7D%7Bx%7D%20%3D%201%20%5Ccdot%20y%20%3D%20y)
