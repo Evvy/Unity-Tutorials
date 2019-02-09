@@ -15,7 +15,7 @@ This property provides the time between the current and previous frame.
 **Explanation:**
 
 ```
-120 FPS (Frames Per Second):
+**120 FPS (Frames Per Second):**
   1/120 = 0.00833333333...
   0.00833333333 * 1 = 0.00833333333
   0.00833333333 * 120 = 0.9999999996 ≈ 1
