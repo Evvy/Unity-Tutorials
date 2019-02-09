@@ -12,6 +12,8 @@ public static float deltaTime;
 The completion time in seconds since the last frame (Read Only).
 This property provides the time between the current and previous frame.
 
+**Explanation:**
+
 ```
 120 FPS (Frames Per Second):
 1/120 = 0.00833333333...
