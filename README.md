@@ -50,4 +50,4 @@ _x_ = FPS (Frames Per Second)
 _y_ = UPS (Units per Second)
 
 ## Contributing  
-Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) for the process for submitting pull requests to me.
+Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
