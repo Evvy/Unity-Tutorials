@@ -29,7 +29,6 @@ This property provides the time between the current and previous frame.
   0.01666666666*1 * 60 = 0.9999999996 ≈ 1
 
 
-
 30 FPS (Frames Per Second):
 
   1/30 = 0.03333333333...
