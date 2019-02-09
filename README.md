@@ -54,6 +54,6 @@ Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/maste
 
 ## Authors
 
-* **Evvy** - [Evvy](https://github.com/Evvy)
+* **Even Engesland** - [Evvy](https://github.com/Evvy)
 
 See also the list of [contributors](http://github.com/Evvy/Unity-Tutorials/contributors) who participated in this project.
