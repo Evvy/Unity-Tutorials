@@ -67,9 +67,9 @@ Formula explaining how to calculate units per second:
 ```
 
 #### Summary
-In this code example we're setting the speed to a float value of 3.0f.  
-This value can be viewed as the _y_ in the mathematical formula.  
-3.0f is the amount of units we would like our object to travel per second.
+In this code example we are setting the speed to a float value of ```3.0f```.  
+This value can be viewed as the ```_y_``` in the mathematical formula.  
+```3.0f``` is the amount of units we would like our object to travel per second.
 
 ## Contributing :memo:
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
