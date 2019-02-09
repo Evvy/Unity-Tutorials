@@ -1,6 +1,6 @@
 # Unity Tutorials
 
-## [Time.deltaTime] (https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
+## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 Syntax:
 public static float deltaTime;
 
