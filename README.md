@@ -9,7 +9,7 @@ For more details, check out Unity's own documentation: [Unity3D](https://docs.un
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 
-> **Syntax:**  
+> **Syntax:**
 >```cs
 >public static float deltaTime;
 >```
