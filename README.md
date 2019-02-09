@@ -17,6 +17,8 @@ This property provides the time between the current and previous frame.
 ```
 120 FPS (Frames Per Second):
   1/120 = 0.00833333333...
+  0.00833333333 * 1 = 0.00833333333
+  0.00833333333 * 120
 
 
 60 FPS (Frames Per Second):
@@ -25,3 +27,6 @@ This property provides the time between the current and previous frame.
 30 FPS (Frames Per Second):
 1/30 = 0.03333333333...
 ```
+
+**Maths:**
+[1](http://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bx%7D%20%5Ccdot%20y%20%5Ccdot%20x)
