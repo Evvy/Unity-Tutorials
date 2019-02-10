@@ -54,8 +54,6 @@ We can easily show how this is possible using the mathematical calculation below
 #### Code :computer:
 Without ```Time.deltaTime```
 ```cs
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class noDeltaTime : MonoBehaviour {
@@ -68,8 +66,6 @@ public class noDeltaTime : MonoBehaviour {
 ```
 With ```Time.deltaTime```
 ```cs
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class deltaTime : MonoBehaviour {
