@@ -119,7 +119,7 @@ No matter what framerate we have, we still move at 1 Unit Per Second.
 The red cube has ```Time.deltaTime```  
 The blue cube does not have ```Time.deltaTime```
 
-![deltaTimeSimulation](https://im.ezgif.com/tmp/ezgif-1-226b08e7074b.gif)
+![deltaTimeSimulation](https://i.imgur.com/p0PUyGx.gif)
 
 #### TL;DR :sleeping:
 ```Time.deltaTime``` creates smooth and predictable movement, independant of FPS (Frames Per Second).
