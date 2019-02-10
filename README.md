@@ -7,6 +7,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 - [Time.deltaTime](https://github.com/Evvy/Unity-Tutorials/tree/master/Time.deltaTime)
 - [Contributing](#contributing-memo)
 - [Authors](#authors-construction_worker)
+- [License](#license)
 
 ## Things to add :clipboard:
 - [x] Time.deltaTime
