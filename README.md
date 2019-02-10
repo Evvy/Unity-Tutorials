@@ -24,7 +24,7 @@ This value can be viewed as the ```y``` in the [mathematical formula](#maths-tri
 ```3.0f``` is the amount of units we would like our object to travel per second.
 
 #### Code :computer:
-Without Time.deltaTime
+Without ```cs Time.deltaTime```
 ```cs
 using System.Collections;
 using System.Collections.Generic;
