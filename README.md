@@ -22,5 +22,4 @@ Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/maste
 See also the list of [contributors](http://github.com/Evvy/Unity-Tutorials/contributors) who participated in this project.
 
 ## License
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-![LicenseLogo](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+Creative Commons Attribution Share Alike 4.0
