@@ -50,7 +50,8 @@ We can easily show how this is possible using the mathematical calculation below
 ```
 
 #### Code :computer:
-The files for these codes can be found [here](https://github.com/Evvy/Unity-Tutorials/tree/master/Time.deltaTime).  
+The files for these codes can be found [here](https://github.com/Evvy/Unity-Tutorials/tree/master/Time.deltaTime).
+
 Without ```Time.deltaTime```
 ```cs
 using System.Collections;
