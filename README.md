@@ -20,7 +20,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 
 ### Explanation :book:
 In this [code example](#code-computer) we are setting the speed to a float value of ```3.0f```.  
-This value can be viewed as the ```y``` in the mathematical formula.  
+This value can be viewed as the ```y``` in the [mathematical formula](#maths-triangular_ruler).  
 ```3.0f``` is the amount of units we would like our object to travel per second.
 
 #### Code :computer:
