@@ -6,6 +6,6 @@ public class noDeltaTime : MonoBehaviour {
   public float speed = 3.0f;
   
   public void Update() {
-    transform.Translate(speed);
+    transform.Translate(speed, 0, 0);
   }
 }
