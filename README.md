@@ -114,6 +114,12 @@ x FPS (Frames Per Second):
   0.03333333333 * 1 = 0.03333333333
   0.03333333333 * 30 = 0.9999999999 ≈ 1
 ```
+#### Simulation:
+The red cube has ```Time.deltaTime```  
+The blue cube does not have ```Time.deltaTime```
+
+![deltaTimeSimulation](https://im.ezgif.com/tmp/ezgif-1-226b08e7074b.gif)
+
 #### TL;DR
 ```Time.deltaTime``` creates smooth and predictable movement, independant of FPS (Frames Per Second).
 
