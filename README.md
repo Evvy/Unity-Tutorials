@@ -19,7 +19,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 
 <details>
 <summary>
-     <p>## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)</p>
+<a href="https://docs.unity3d.com/ScriptReference/Time-deltaTime.html">Time.deltaTime</a>
 </summary>
 <p>
 
