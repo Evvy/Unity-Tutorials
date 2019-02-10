@@ -8,6 +8,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
      - [Explanation](#explanation-book)
      - [Code](#code-computer)
      - [Math](#maths-triangular_ruler)
+     - [TL;DR](#tldr)
 - [Contributing](#contributing-memo)
 - [Authors](#authors-construction_worker)
 
