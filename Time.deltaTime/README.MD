@@ -12,7 +12,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
      - [TL;DR](#tldr-sleeping)
 - [Contributing](#contributing-memo)
 - [Authors](#authors-construction_worker)
-- [License](#license)
+- [License](#license-mortar_board)
 
 ## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 
