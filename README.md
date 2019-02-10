@@ -27,7 +27,7 @@ The ```Update()``` function gets called every frame. Meaning that for every fram
 Say we are running a game at ```60 FPS (Frames Per Second)```.  
 This means that 60 frames are rendered per second.  
 If we have a set speed at ```3.0f```, this will get called 60 times a second, resulting in a movement of ```180 UPS (Units Per Seconds)```.  
-What we wish as a result is a movement of ```3 UPS (Units Per Second)```.  
+What we wish for as a result, is a movement of ```3 UPS (Units Per Second)```.  
 In order to achieve this we use ```Time.deltaTime```.  
 We can easily show how this is possible using the mathematical calculation below.  
 ```
