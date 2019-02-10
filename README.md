@@ -4,7 +4,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 **For more details, check out Unity's own documentation: [Unity3D](https://docs.unity3d.com/ScriptReference/).**
 
 ## Table of Contents
-- [Time.deltaTime](#Time.deltaTime)
+- [Time.deltaTime](#timedeltaTime)
      - [Explanation](#explanation-book)
      - [Code](#code-computer)
      - [Math](#maths-triangular_ruler)
