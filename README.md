@@ -8,7 +8,8 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
      - [Explanation](#explanation-book)
      - [Code](#code-computer)
      - [Math](#maths-triangular_ruler)
-     - [TL;DR](#tldr)
+     - [Simulation](#simulation-movie_camera)
+     - [TL;DR](#tldr-sleeping)
 - [Contributing](#contributing-memo)
 - [Authors](#authors-construction_worker)
 
@@ -114,13 +115,13 @@ x FPS (Frames Per Second):
   0.03333333333 * 1 = 0.03333333333
   0.03333333333 * 30 = 0.9999999999 ≈ 1
 ```
-#### Simulation:
+#### Simulation :movie_camera:
 The red cube has ```Time.deltaTime```  
 The blue cube does not have ```Time.deltaTime```
 
 ![deltaTimeSimulation](https://im.ezgif.com/tmp/ezgif-1-226b08e7074b.gif)
 
-#### TL;DR
+#### TL;DR :sleeping:
 ```Time.deltaTime``` creates smooth and predictable movement, independant of FPS (Frames Per Second).
 
 ## Contributing :memo:
