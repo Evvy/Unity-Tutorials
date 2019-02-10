@@ -5,6 +5,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 
 ## Table of Contents
 - [Time.deltaTime](#Time.deltaTime)
+     - [Explanation](#explanation-book)
      - [Code](#code-computer)
      - [Math](#maths-triangular_ruler)
 - [Contributing](#contributing-memo)
