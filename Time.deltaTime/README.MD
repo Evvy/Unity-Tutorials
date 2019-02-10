@@ -112,6 +112,7 @@ x FPS (Frames Per Second):
   0.03333333333 * 1 = 0.03333333333
   0.03333333333 * 30 = 0.9999999999 ≈ 1
   
+  
 No matter what framerate we have, we still move at 1 Unit Per Second.
 ```
 #### Simulation :movie_camera:
