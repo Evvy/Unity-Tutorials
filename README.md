@@ -19,7 +19,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 >This property provides the time between the current and previous frame.
 
 ### Explanation :book:
-In this [code example](#-1) we are setting the speed to a float value of ```3.0f```.  
+In this [code example](#code-computer) we are setting the speed to a float value of ```3.0f```.  
 This value can be viewed as the ```y``` in the mathematical formula.  
 ```3.0f``` is the amount of units we would like our object to travel per second.
 
