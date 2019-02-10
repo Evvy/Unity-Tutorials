@@ -24,7 +24,21 @@ This value can be viewed as the ```y``` in the [mathematical formula](#maths-tri
 ```3.0f``` is the amount of units we would like our object to travel per second.
 
 #### Code :computer:
+Without Time.deltaTime
+```cs
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class deltaTime : MonoBehaviour {
+  public float speed = 3.0f;
+  
+  public void Update() {
+    transform.Translate(speed);
+  }
+}
+```
+With Time.deltaTime
 ```cs
 using System.Collections;
 using System.Collections.Generic;
