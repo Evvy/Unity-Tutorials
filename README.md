@@ -23,6 +23,7 @@ See also the list of [contributors](http://github.com/Evvy/Unity-Tutorials/contr
 
 ## License
 [Creative Commons Attribution Share Alike 4.0](https://github.com/Evvy/Unity-Tutorials/blob/master/LICENSE.md)
+[LicenseLogo](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 <details><summary>Layman's Terms</summary>
 <p>
   
