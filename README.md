@@ -37,7 +37,7 @@ We can easily show how this is possible using the mathematical calculation below
   0.01666666666 * 3 = 0.04999999998
   0.04999999998 * 60 = 2.9999999988 ≈ 3
 ```
->_x_ = 60
+>_x_ = 60  
 >_y_ = 3
 
 #### Code :computer:
