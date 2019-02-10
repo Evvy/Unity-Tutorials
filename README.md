@@ -118,7 +118,7 @@ x FPS (Frames Per Second):
   0.03333333333 * 30 = 0.9999999999 ≈ 1
 ```
 #### TL;DR
-Time.deltaTime creates smooth and predictable movement, independant of FPS (Frames Per Second).
+```Time.deltaTime``` creates smooth and predictable movement, independant of FPS (Frames Per Second).
 
 ## Contributing :memo:
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
