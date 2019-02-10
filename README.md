@@ -78,13 +78,14 @@ Formula explaining how to calculate units per second:
 >_x_ = FPS (Frames Per Second)  
 >_y_ = UPS (Units Per Second)
 
+##### Step-by-Step Calculation:
 ```
-Step-by-Step Calculation:
 x FPS (Frames Per Second):
 
   1/x = ...
   ... * y = ...
   ... * x = ... ≈ y
+
 
 120 FPS (Frames Per Second):
 
