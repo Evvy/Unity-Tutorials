@@ -23,3 +23,8 @@ See also the list of [contributors](http://github.com/Evvy/Unity-Tutorials/contr
 
 ## License
 Creative Commons Attribution Share Alike 4.0
+<details>
+  <summary>Layman's Terms</summary>
+  <p>
+  </p>
+</details>
