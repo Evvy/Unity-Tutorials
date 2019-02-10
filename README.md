@@ -22,22 +22,23 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 In this [code example](#code-computer) we are setting the speed to a float value of ```3.0f```.  
 This value can be viewed as the ```y``` in the [mathematical formula](#maths-triangular_ruler).  
 ```3.0f``` is the amount of units we would like our object to travel per second (Units Per Second).  
-In order to understand how the object(s) is/are going to travel using this transform.Translate method, we have to understand what happens when this is called in the Update() function.  
-The Update() function gets called every frame. Meaning that for every frame, the transform.Translate will be run.  
-Say we are running a game at 60 FPS (Frames Per Second).  
+In order to understand how the object(s) is/are going to travel using this ```transform.Translate``` method, we have to understand what happens when this is called in the ```Update()``` function.  
+The ```Update()``` function gets called every frame. Meaning that for every frame, the ```transform.Translate``` will be run.  
+Say we are running a game at ```60 FPS (Frames Per Second)```.  
 This means that 60 frames are rendered per second.  
-If we have a set speed at 3.0f, this will get called 60 times a second, resulting in a movement of 180 UPS (Units Per Seconds).
-What we wish as a result is a movement of 3 UPS (Units Per Second).  
-In order to achieve this we use Time.deltaTime.  
+If we have a set speed at ```3.0f```, this will get called 60 times a second, resulting in a movement of ```180 UPS (Units Per Seconds)```.
+What we wish as a result is a movement of ```3 UPS (Units Per Second)```.  
+In order to achieve this we use ```Time.deltaTime```.  
 We can easily show how this is possible using the mathematical calculation below.  
 ```
-60 FPS (Frames Per Second):
+60 FPS (Frames Per Second) | Float speed of 3.0f:
 
   1/60 = 0.01666666666...
   0.01666666666 * 3 = 0.04999999998
   0.04999999998 * 60 = 2.9999999988 ≈ 3
 ```
-
+>_x_ = 60
+>_y_ = 3
 
 #### Code :computer:
 Without ```Time.deltaTime```
