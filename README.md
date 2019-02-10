@@ -17,11 +17,7 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 - [x] Time.deltaTime
 - [ ] Hmm...
 
-<details>
-<summary>
-<a href="https://docs.unity3d.com/ScriptReference/Time-deltaTime.html">Time.deltaTime</a>
-</summary>
-<p>
+## [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)
 
 >**Syntax:**
 >```cs
@@ -127,9 +123,6 @@ The blue cube does not have ```Time.deltaTime```
 
 #### TL;DR :sleeping:
 ```Time.deltaTime``` creates smooth and predictable movement, independant of FPS (Frames Per Second).
-
-</p>
-</details>
 
 ## Contributing :memo:
 Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/master/CONTRIBUTING.md) to see the process for submitting pull requests to me.
