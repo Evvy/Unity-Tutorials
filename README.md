@@ -30,6 +30,9 @@ If we have a set speed at ```3.0f```, this will get called 60 times a second, re
 What we wish for as a result, is a movement of ```3 UPS (Units Per Second)```.  
 In order to achieve this we use ```Time.deltaTime```.  
 We can easily show how this is possible using the mathematical calculation below.  
+>_x_ = 60  
+>_y_ = 3
+
 ```
 60 FPS (Frames Per Second) | Float speed of 3.0f:
 
@@ -37,8 +40,6 @@ We can easily show how this is possible using the mathematical calculation below
   0.01666666666 * 3 = 0.04999999998
   0.04999999998 * 60 = 2.9999999988 ≈ 3
 ```
->_x_ = 60  
->_y_ = 3
 
 #### Code :computer:
 Without ```Time.deltaTime```
