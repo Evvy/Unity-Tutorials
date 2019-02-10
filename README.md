@@ -4,11 +4,11 @@ Each tutorial will contain a variety of explanations, ranging from mathematical 
 **For more details, check out Unity's own documentation: [Unity3D](https://docs.unity3d.com/ScriptReference/).**
 
 ## Table of Contents
-- Time.deltaTime
-     - [1](#code-computer)
-     - [2](#maths-triangular_ruler)
-     - [3](#contributing-memo)
-     - [4](# Author(s)-construction_worker)
+- [Time.deltaTime](#Time.deltaTime)
+     - [Code](#code-computer)
+     - [Math](#maths-triangular_ruler)
+- [Contributing](#contributing-memo)
+- [Authors](#authors-construction_worker)
 
 ## Things to add :clipboard:
 - [x] Time.deltaTime
