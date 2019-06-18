@@ -18,7 +18,7 @@ Please read [CONTRIBUTING.md](https://github.com/Evvy/Unity-Tutorials/blob/maste
 
 ## Author(s) :construction_worker:
 
-*[Evvy](https://github.com/Evvy)
+* [Evvy](https://github.com/Evvy)
 
 See also the list of [contributors](http://github.com/Evvy/Unity-Tutorials/contributors) who participated in this project.
 
