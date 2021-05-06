@@ -1,4 +1,4 @@
-# Unity Tutorials
+# Unity Tutorials (Trial Project)
 These tutorials are ment to give a broader understanding / more context to elements of Unity(C#) coding.  
 Each tutorial will contain a variety of explanations, ranging from mathematical explanations to pure code.  
 **For more details, check out Unity's own documentation: [Unity3D](https://docs.unity3d.com/ScriptReference/).**
